@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: 'devopsapptest2'
+  webAppName: 'devopsapptest3'
   serviceConnection: 'Identity Performance Regressions'
   azureSubscriptionId: 'b3e1d383-c2f4-48b4-9f90-0953df84fa0a'
   loadTestResource: 'devopsapp2loadtest'
